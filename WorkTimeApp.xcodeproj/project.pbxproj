@@ -12,7 +12,6 @@
 		137A7D292ACF2E6B009A2786 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 137A7D282ACF2E6B009A2786 /* ViewController.swift */; };
 		137A7D2E2ACF2E6C009A2786 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 137A7D2D2ACF2E6C009A2786 /* Assets.xcassets */; };
 		137A7D312ACF2E6C009A2786 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 137A7D2F2ACF2E6C009A2786 /* LaunchScreen.storyboard */; };
-		13DF061E2AD88F290021FCCA /* R.generated.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13DF061D2AD88F290021FCCA /* R.generated.swift */; };
 		456C8E90EF99A45BE6B02BE6 /* Pods_WorkTimeApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 64CCD69698A1F993EEF91F0D /* Pods_WorkTimeApp.framework */; };
 /* End PBXBuildFile section */
 
@@ -261,7 +260,6 @@
 				137A7D292ACF2E6B009A2786 /* ViewController.swift in Sources */,
 				137A7D252ACF2E6B009A2786 /* AppDelegate.swift in Sources */,
 				137A7D272ACF2E6B009A2786 /* SceneDelegate.swift in Sources */,
-				13DF061E2AD88F290021FCCA /* R.generated.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

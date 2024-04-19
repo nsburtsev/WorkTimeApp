@@ -42,6 +42,8 @@ private extension AuthViewController {
     
     func setupTitleSwitchView() {
         contentView.addSubview(titleSwitchView)
+        
+        titleSwitchView.titles = ("Login", "Sign Up")
                        
         titleSwitchView.snp.makeConstraints {
             $0.top.equalToSuperview()
